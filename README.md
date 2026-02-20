@@ -107,7 +107,3 @@ This ensured reproducibility and systematic comparison across architectures..
 ## Tech Stack
 
 Python • TensorFlow / Keras • NumPy • Pandas • Matplotlib • Scikit-learn
-
----
-
-If needed, a more technical research-style version or a highly minimal portfolio-ready version can also be provided.
